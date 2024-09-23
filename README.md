@@ -1,4 +1,4 @@
-##Confirmed Cases of Compulsory Notification Diseases - Machine Learning Analysis
+## Confirmed Cases of Compulsory Notification Diseases - Machine Learning Analysis
 This project focuses on predicting the number of confirmed cases of compulsory notification diseases using machine learning techniques. The analysis includes data pre-processing, feature selection, and the training of models using the XGBoost algorithm. The goal is to optimize the model for accurate predictions, aiding in public health decision-making.
 
 Table of Contents
